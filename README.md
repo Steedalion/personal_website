@@ -19,6 +19,11 @@ Auyeskhan, U., Steed, C. A., Park, S., Dong J., Kim N., (**In review**), Assembl
 for Additive Manufacturing Decision Framework Involving Human Aspects from Virtual Reality,
 Rapid Prototyping Journal
 
+Ulanbek, A., Clint Alex Steed, Soohyung Park, Dong-Hyun Kim, &#38; Namhun Kim. (2022).
+[Assembly-level Design for Additive Manufacturing framework supported by Axiomatic Design Theory](./Docs/IDECT2022.pdf),
+IDETC 42nd Computers and Information in Engineering Conference (CIE)
+
+
 Kim, N., Steed, C. A., Park, S. H., Park, Y. H. (2022). A Simulation method and system using a real-
 time agent status linkage, (Patent No. PD21428).
 
