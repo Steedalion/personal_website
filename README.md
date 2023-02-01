@@ -11,7 +11,7 @@
 - Machine Learning, Stanford University (2012)
 - Learning How to Learn: Powerful mental tools to help you master tough subjects, University of California, San Diego (2013)
 
-# Academic
+# Academic works
 
 Steed, C. A., Kim, N. (2023, **In review**). Deep active-learning based model-synchronization of digital manufacturing stations using human-in-the-loop simulation. Journal of Manufacturing Systems.
 
