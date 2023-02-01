@@ -28,8 +28,7 @@ Kim, N., Steed, C. A., Park, S. H., Park, Y. H. (2022). A Simulation method and 
 time agent status linkage, (Patent No. PD21428).
 
 Steed, C. A., Kim N. (2021). Investigating the link between human fatigue and manufacturing
-assembly quality. IFORS (International Federation of Operational Research Societies).
-
+assembly quality. IFORS Conference (International Federation of Operational Research Societies).
 
 Steed, C. A. (2019). A simulation-based approach to develop a holonic robotic cell. Industrial
 Robot, 46(1). https://doi.org/10.1108/IR-07-2018-0149
