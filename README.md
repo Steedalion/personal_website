@@ -8,8 +8,6 @@ Department of Industrial Engineering Stellenbosch University
 
 - steed at sun dot ac dot za 
 
-- steed at unist dot ac dot kr
-
 **address**: Engineering Faculty, Banghoek road, Stellenbosch, South Africa
 
 # About
