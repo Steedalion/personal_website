@@ -1,6 +1,6 @@
 # Clint Alex Steed
 
-<img src="ID_2022.jpg" align="right">
+<img src="ID_2022.jpg" align="left">
 
 Department of Industrial Engineering Stellenbosch University
 
@@ -14,7 +14,7 @@ Department of Industrial Engineering Stellenbosch University
 
 # About
 
-I was recently appointed as junior lecturer at Stellenbosch University in early 2023. Before this I spent a short time as an engineering consultant. I am in the process of completing my PhD at UNIST in South Korea. 
+I was recently appointed as junior lecturer at Stellenbosch University in early 2023, while perusing a [PhD](phd.md) at UNIST in South Korea.  Before this, I spent a short time as an engineering consultant.
 
 # Academic works
 
@@ -38,20 +38,3 @@ assembly quality. IFORS Conference (International Federation of Operational Rese
 Steed, C. A. (2019). A simulation-based approach to develop a holonic robotic cell. Industrial
 Robot, 46(1). https://doi.org/10.1108/IR-07-2018-0149
 
-# Online course certificates
-
-[Parallel, Concurrent, and Distributed Programming in Java](https://coursera.org/share/f1559bae55135f2fab5085af6064596a)
-
-OOP
-
-Data structures
-
-Performance
-
-[Object-orientated Design](https://www.coursera.org/account/accomplishments/verify/5YVMU7EHTWBG)
-
-Programming Languages: Function languages, University of Washington (2021)
-
-Machine Learning, Stanford University (2012)
-
-Learning How to Learn: Powerful mental tools to help you master tough subjects, University of California, San Diego (2013)

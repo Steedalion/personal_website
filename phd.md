@@ -8,6 +8,10 @@ The aforementioned method was extended to the more general Bayesian optimization
 
 Ethical considerations prohibit the use of AI to control human systems. For this reason the aforementioned method requires a method of measuring the internal human state (empathy). Modeling human states such as learning and fatigue tend to be dynamic, were the industrial systems in question are assumed to be steady-state. Although in its infancy, this second generation model attempts to (1) extend the model from steady-state to dynamic and (2) extract the hidden state of the human operator [^3].  
 
+Candidate: Clint Alex Steed
+
+Supervisor: Namhun Kim
+
 
 
 [^1]: Steed, C. A., Kim, N. (2023, **In review since 22-11-22**). Deep active-learning based model-synchronization of digital manufacturing stations using human-in-the-loop simulation. Journal of Manufacturing Systems.
