@@ -12,4 +12,4 @@ Ethical considerations prohibit the use of AI to control human systems. For this
 
 [^1]: Steed, C. A., Kim, N. (2023, **In review since 22-11-22**). Deep active-learning based model-synchronization of digital manufacturing stations using human-in-the-loop simulation. Journal of Manufacturing Systems.
 [^2]: Steed, C. A., &#38; Kim, N. (2023, **Accepted**). Automated modeling and control of steady state processes using active learning, [live version](https://github.com/Acadevic/Active-control). <i>IISE Annual Conference and Expo 2023</i>.
-[^3]: Steed, C. A., &#38; Kim, N. (2023, **Under review**). Unsupervised hidden state estimation as blind source separation using Auto-encoder RNN filter. <i>15th International Conference on Advanced Computational Intelligence</i> [preprint](Docs/Autoencoder-rnn filtering.pdf) 
+[^3]: Steed, C. A., &#38; Kim, N. (2023, **Under review**). Unsupervised hidden state estimation as blind source separation using Auto-encoder RNN filter. <i>15th International Conference on Advanced Computational Intelligence</i> [preprint](Docs/Autoencoder-rnn_filtering.pdf) 
