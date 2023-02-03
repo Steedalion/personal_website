@@ -14,7 +14,7 @@ Department of Industrial Engineering Stellenbosch University
 
 # About
 
-I was recently appointed as junior lecturer at Stellenbosch University in early 2023, while perusing a [PhD](phd.md) at UNIST in South Korea.  Before this, I spent a short time as an engineering consultant.
+I was recently appointed as junior lecturer at Stellenbosch University in early 2023, while pursuing a [PhD](phd.md) at UNIST in South Korea. Before this, I spent a short time as an engineering consultant.
 
 # Academic works
 
