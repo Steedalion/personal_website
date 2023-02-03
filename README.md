@@ -1,6 +1,6 @@
 # Clint Alex Steed
 
-<img src="ID_2022.jpg" align="left">
+<img src="ID_2022.jpg">
 
 Department of Industrial Engineering Stellenbosch University
 
