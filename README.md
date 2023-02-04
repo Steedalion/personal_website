@@ -22,13 +22,10 @@ Auyeskhan, U., Steed, C. A., Park, S., Dong J., Kim N., (2023, **In review**), A
 for Additive Manufacturing Decision Framework Involving Human Aspects from Virtual Reality,
 Rapid Prototyping Journal
 
-Ulanbek, A., Clint Alex Steed, Soohyung Park, Dong-Hyun Kim, &#38; Namhun Kim. (2022).
-[Assembly-level Design for Additive Manufacturing framework supported by Axiomatic Design Theory](./Docs/IDECT2022.pdf),
-IDETC 42nd Computers and Information in Engineering Conference (CIE)- Techinal Presentation (IDETC2022-94874)
-
+Auyeskhan, U., Steed, C. A., Park, S., Kim N., (2022). [Assembly-level Design for Additive Manufacturing framework supported by Axiomatic Design Theory](./Docs/IDECT2022.pdf), IDETC 42nd Computers and Information in Engineering Conference (CIE)- Techinal Presentation (IDETC2022-94874)
 
 Kim, N., Steed, C. A., Park, S. H., Park, Y. H. (2022). A Simulation method and system using a real-
-time agent status linkage, (Patent No. PD21428).
+time agent status linkage, (Patent No. 10-2022-0035101).
 
 Steed, C. A., Kim N. (2021). Investigating the link between human fatigue and manufacturing
 assembly quality. IFORS Conference (International Federation of Operational Research Societies).
