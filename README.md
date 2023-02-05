@@ -6,11 +6,11 @@ Junior Lecturer
 
 Department of Industrial Engineering 
 
-Stellenbosch University
+[Stellenbosch University](https://www.sun.ac.za/)
 
-**email**:  steed at sun.ac.za 
+**e**:  steed at sun.ac.za 
 
-**address**: Engineering Faculty, Banghoek road, Stellenbosch, South Africa
+**a**: Engineering Faculty, Banghoek road, Stellenbosch University, Stellenbosch, South Africa
 
 # About
 
