@@ -2,17 +2,17 @@
 
 ## Abstract
 
-This work investigates including humans into cyber-physical manufacturing systems by attempting to build a vertical slice. This study includes building a virtual reality simulation is developed as a test bed, conducting experiments are to verify the simulations ability to observe human behavior, and investigating applications of the data acquired. 
+This work explores the integration of humans into cyber-physical manufacturing systems by constructing a virtual reality simulation to test human behavior. Experiments are conducted to validate the simulation's ability to observe human behavior, and the data collected is used to investigate potential applications. 
 
-Through a number of experiments it was noticed that human trials are expensive and time consuming, inflated by experiment designers tendency to plan for surplus of data. For this reason, a means of automating the experimental design was developed. Using deep learning and informative sampling an active learning model was developed that substantially reduced the amount of experimental trials needed to model the human performance.[^1]
+Through a number of experiments it was noticed that human trials are expensive and time consuming, inflated by experiment designers tendency to plan for surplus of data. For this reason, a means of automating the experimental design was developed. Using deep learning and informative sampling, an active learning model was developed that substantially reduced the amount of experimental trials needed to model human performance.[^1]
 
-The aforementioned method was extended to the more general Bayesian optimization form, which retains automated experimental design ability (exploration), but extension also allows finding the optimum operating conditions (exploitation). The method developed here is distinct from previous methods as it relies on transparent geometric functions, where previous methods rely on opaque statistical methods. This has the potential to increase industrial adoption due to transparency.[^2]
+The aforementioned method was extended to Bayesian optimization, which maintains the ability to automated experimental design but also finds the optimum operating conditions, using transparent geometric functions instead of opaque statistical methods. This has the potential to increase industrial adoption due to transparency, but requires more parameter tuning and the design of constraining functions.[^2]
 
-Ethical considerations prohibit the use of AI to control human systems. For this reason the aforementioned method requires a method of measuring the internal human state (empathy). Modeling human states such as learning and fatigue tend to be dynamic, were the industrial systems in question are assumed to be steady-state. Although in its infancy, this work attempts to (1) extend the model from steady-state to dynamic and (2) extract the hidden state of the human operator.[^3]  
+Ethical considerations prohibit AI control of human systems. So the aforementioned method requires a means of measuring the internal human state, such as empathy. Although in its infancy, this work aims to extend the model from steady-state to dynamic and extract the hidden state of the human operator.[^3]  
 
-Candidate: Clint Alex Steed
+Candidate: [Clint Alex Steed](README.md)
 
-Supervisor: Namhun Kim
+Supervisor: [Namhun Kim](https://scholar.google.com/citations?user=0dlS09UAAAAJ)
 
 
 
