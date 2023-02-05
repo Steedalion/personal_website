@@ -16,7 +16,7 @@ Stellenbosch University
 
 Appointed as junior lecturer at Stellenbosch University in early 2023, Alex is currently pursuing a [PhD](phd.md) at UNIST in South Korea. He is a Cyber-physical developer with experience in physical and virtual development, network communication, and system design. His interests are both academic and industrial having spent some time as an engineering consultant.
 
-You can find my resume [here](Docs/CSteed Resume 2022-09-21-a.pdf).
+You can find my resume [here](Docs/Resume.pdf).
 
 # Academic works
 
