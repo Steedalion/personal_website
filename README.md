@@ -22,7 +22,7 @@ You can find my resume [here](Docs/Resume.pdf).
 
 Steed, C. A., Kim, N. (2023, **In review**). Deep active-learning based model-synchronization of digital manufacturing stations using human-in-the-loop simulation. Journal of Manufacturing Systems.
 
-Auyeskhan, U., Steed, C. A., Park, S., Dong J., Kim N., (2023, **In review**), Assembly-Level Design for Additive Manufacturing Decision Framework Involving Human Aspects from Virtual Reality, Rapid Prototyping Journal
+Auyeskhan, U., Steed, C. A., Park, S., Dong J., Kim N., (2023), [Assembly-Level Design for Additive Manufacturing Decision Framework Involving Human Aspects from Virtual Reality](https://doi.org/10.1093/jcde/qwad041), Journal of Computational Design and Engineering
 
 Auyeskhan, U., Steed, C. A., Park, S., Kim N., (2022). [Assembly-level Design for Additive Manufacturing framework supported by Axiomatic Design Theory](./Docs/IDECT2022.pdf), IDETC 42nd Computers and Information in Engineering Conference (CIE)- Techinal Presentation (IDETC2022-94874)
 
