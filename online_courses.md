@@ -15,3 +15,5 @@ Programming Languages: Function languages, University of Washington (2021)
 Machine Learning, Stanford University (2012)
 
 Learning How to Learn: Powerful mental tools to help you master tough subjects, University of California, San Diego (2013)
+
+[Introduction to Agent based modelling](http://abm.complexityexplorer.org/)
